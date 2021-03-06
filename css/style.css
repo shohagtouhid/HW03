@@ -1,0 +1,65 @@
+h3{
+	color: green;
+	background-color: red;
+}
+
+p{
+	color: blue;
+}
+.head2{
+	color: red;
+	background-color: green;
+}
+.head22{
+	color: green;
+}
+.brac{
+	border: 5px solid green;
+}
+#heading1{
+	color: pink;
+}
+.check1{
+	color: blue;
+}
+#check1{
+	color: red;
+}
+div{
+	width: 30%;height: 40px;
+	background-color: #004500;
+}
+.cool{
+	width: 100px;height: 50px;
+	background-color: rgb(11,01,33);
+}
+.cool2{
+	width: 180px;height: 100px;
+	background-color: rgba(178,12,0,.5);
+}
+.sunf{
+	width: 250px;height: 250px;
+}
+.redfl{
+	width: 300px;height: 300px;
+}
+.fgel{
+	color: red;background-color: green;
+}
+.bq{
+	color: yellow;
+}
+.bt{
+	color: blue;
+
+}
+.ct{
+	color: red;
+	background-color: yellow;
+}
+.tamim{
+	color: red;
+}
+.shakib{
+	color: green;
+}
